@@ -1,5 +1,37 @@
 # Project Formulation
 
+## NOTE TIL OS SELV - SKAL SLETTES VED AFLEVERING
+Dette er korte noter til teksten under. Formålet er at så vi har klare linjer over hvad vores mål er, samt hvad vi forventer
+
+**Challenge to Address:**
+
+* Analyze how cities reduce greenhouse gas (GHG) emissions.
+* Evaluate efforts to improve air quality.
+* Assess if climate goals are realistic.
+* Understand cities' climate risk assessments.
+
+**Importance of Research:**
+
+* Cities are major contributors to global CO2 emissions.
+* City actions greatly impact climate change.
+* Insights into which strategies work best.
+* Air quality improvement directly benefits public health.
+* Reducing pollution has a positive impact on well-being.
+
+**Expected Solution:**
+
+* Detailed analysis of cities' GHG reduction targets and air quality.
+* Identify cities on track and those falling behind in climate goals.
+* Provide recommendations for better climate action.
+* Compare emission reduction with current air quality to measure effectiveness.
+
+**Positive Impact & Beneficiaries:**
+
+* Helps city governments, environmental orgs, and policymakers.
+* Supports better decision-making for climate strategies.
+* Useful for researchers and activists promoting climate policies.
+* Improves air quality and reduces climate risks for city inhabitants.
+
 ## Which challenge would you like to address?
 
 The challenge is to analyze how global cities are working to reduce greenhouse gas emissions and improve air quality in line with their climate goals. The challenge also includes understanding whether these goals are realistic and how cities assess and handle their climate risks.
