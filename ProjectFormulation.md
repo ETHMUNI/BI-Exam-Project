@@ -1,49 +1,46 @@
-# Project Formulation
+# Forecasting Climate Success: Analyzing Emissions and Reduction Targets
 
-## NOTE TIL OS SELV - SKAL SLETTES VED AFLEVERING
-Dette er korte noter til teksten under. Formålet er at så vi har klare linjer over hvad vores mål er, samt hvad vi forventer
+## Project Formulation
+
+### Context
+
+Climate change and its associated risks are pressing global issues, with cities playing a critical role in reducing greenhouse gas emissions. Governments worldwide have set ambitious reduction targets to combat climate change, and many cities are now tracking their progress towards these goals.
+
+### Purpose
+
+The main purpose is to analyze emissions data from cities between 2016 and 2017 to assess progress towards their greenhouse gas reduction targets. Using various machine learning models, the goal is to predict emissions differences and determine if cities are on track to meet their goals.
 
 **Challenge to Address:**
 
-* Analyze how cities reduce greenhouse gas (GHG) emissions.
-* Evaluate efforts to improve air quality.
-* Assess if climate goals are realistic.
-* Understand cities' climate risk assessments.
+The challenge is to predict whether cities will achieve their emissions reduction targets by analyzing differences in CO2 emissions between 2016 and 2017 and exploring trends over time.
 
 **Importance of Research:**
 
-* Cities are major contributors to global CO2 emissions.
-* City actions greatly impact climate change.
-* Insights into which strategies work best.
-* Air quality improvement directly benefits public health.
-* Reducing pollution has a positive impact on well-being.
+This is important because understanding the progress of cities in reducing emissions helps address climate change, one of the most pressing global issues today.
 
 **Expected Solution:**
 
-* Detailed analysis of cities' GHG reduction targets and air quality.
-* Identify cities on track and those falling behind in climate goals.
-* Provide recommendations for better climate action.
-* Compare emission reduction with current air quality to measure effectiveness.
+The project aims to offer a predictive model that assesses the likelihood of cities reaching their emissions reduction goals based on historical data and key environmental factors
 
 **Positive Impact & Beneficiaries:**
 
-* Helps city governments, environmental orgs, and policymakers.
-* Supports better decision-making for climate strategies.
-* Useful for researchers and activists promoting climate policies.
-* Improves air quality and reduces climate risks for city inhabitants.
+The solution could help:
+* Policymakers by providing actionable insights to adjust policies and meet environmental goals.
+* Environmental organizations by highlighting cities that need support and resources for further emissions reductions.
+* Urban planners by offering data-driven approaches to sustainable city development and infrastructure planning.
+* Future of society by contributing to a more sustainable  future, helping reduce the impact of climate change for future generations.
 
-## Which challenge would you like to address?
+## Development environment
 
-The challenge is to analyze how global cities are working to reduce greenhouse gas emissions and improve air quality in line with their climate goals. The challenge also includes understanding whether these goals are realistic and how cities assess and handle their climate risks.
+**Team:**
+* Sumaia El-Kalache
+* Mounir Salem
 
-## Why is it an important or interesting research goal?
+**Project execution plan:**
 
-This is important because cities are responsible for a significant portion of the world's CO2 emissions, and their actions have a substantial impact on climate change. Analyzing their efforts can provide insights into which strategies are most effective and which cities are leading the way in climate actions. Additionally, air quality is directly related to public health, and reducing pollution will have a significant positive impact on people’s well being.
+Our plan is to meet twice a week after school, during our BI classes, to discuss and share our progress with each other. Each team member is free to dedicate as many hours as they wish, as long as they meet the agreed upon goals from our BI class discussions. Additionally, we stay connected on Discord for ongoing discussions and virtual meetings when needed.
 
-## What is the expected solution your project would provide?
-
-The expected solution is an in-depth analysis of cities’ emissions targets and air quality. The project can identify cities that are on track to meet their climate goals and those that are not, along with providing recommendations on how they can improve their efforts. It could also include a comparison between cities’ emissions reduction efforts and their current air quality, offering insight into whether the actions taken have had a measurable effect.
-
-## What would be the positive impact of the solution, and which category of users could benefit from it?
-
-The solution will have a positive impact on city governments, environmental organizations, and policymakers by helping them understand which measures are most effective in achieving climate goals. The data analysis could also be useful for researchers and activists advocating for better climate policies. On a broader scale, the inhabitants of these cities will benefit from improved air quality and reduced climate risks.
+**Tools:**
+Anaconda – For coding and data analysis
+Discord – For team communication and collaboration
+GitHub – For code sharing, version control, and project management
