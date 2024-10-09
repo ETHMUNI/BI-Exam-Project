@@ -30,7 +30,7 @@ The solution could help:
 * Urban planners by offering data-driven approaches to sustainable city development and infrastructure planning.
 * Future of society by contributing to a more sustainable  future, helping reduce the impact of climate change for future generations.
 
-## Development environment
+## Development Environment
 
 **Team:**
 * Sumaia El-Kalache
