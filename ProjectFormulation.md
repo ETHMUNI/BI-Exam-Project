@@ -42,7 +42,7 @@ Our plan is to meet twice a week after school, during our BI classes, to discuss
 
 **Tools:**
 
-Anaconda – For coding and data analysis
+Anaconda/Jupyter Notebook – For coding and data analysis
 
 Discord – For team communication and collaboration
 
