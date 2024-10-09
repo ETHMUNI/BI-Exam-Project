@@ -41,6 +41,7 @@ The solution could help:
 Our plan is to meet twice a week after school, during our BI classes, to discuss and share our progress with each other. Each team member is free to dedicate as many hours as they wish, as long as they meet the agreed upon goals from our BI class discussions. Additionally, we stay connected on Discord for ongoing discussions and virtual meetings when needed.
 
 **Tools:**
+
 Anaconda – For coding and data analysis
 Discord – For team communication and collaboration
 GitHub – For code sharing, version control, and project management
