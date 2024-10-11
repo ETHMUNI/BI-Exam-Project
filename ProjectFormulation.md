@@ -1,4 +1,4 @@
-# Forecasting Climate Success: Analyzing Emissions and Reduction Targets
+# Predicting Emissions Progress: Leveraging Data to Forecast Regional Climate Target Success
 
 ## Project Formulation
 
