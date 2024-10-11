@@ -1,6 +1,7 @@
 # Final Solution and Conclusion
 
 In our project, we analyzed greenhouse gas emissions data from 2016 and 2017 to predict whether countries are on track to meet their emissions reduction targets. We focused on key factors such as population and GDP, which are significant drivers of emissions.
+
 We employed various machine learning models, including Linear Regression, Multiple Regression, Polynomial Regression, and Clustering, to predict total emissions and identify patterns in the data based on these factors. Our models were developed using Python, with data preprocessing steps that included data cleaning, handling missing values with median imputation, and feature scaling using StandardScaler.
 
 ## Linear Regression
@@ -65,5 +66,6 @@ The project gave important insights:
 ## Final Conclusion
 
 Our analysis indicates that while population and GDP are significant factors influencing greenhouse gas emissions, they are insufficient on their own to predict whether countrys will meet their emissions reduction targets. The lack of critical data on emissions targets and other influential variables limited the effectiveness of our models.
+
 This project underscores the complexity of predicting emissions progress and highlights the importance of comprehensive data collection. Without access to specific emissions reduction targets and additional variables that impact emissions, such as policy measures and technological innovations, our ability to make accurate predictions remains constrained.
 In conclusion, although we applied established statistical techniques and conducted a thorough analysis, our project demonstrates that predicting emissions progress is complex and cannot rely solely on population and GDP. A more comprehensive approach that incorporates additional variables and addresses data limitations is necessary for more accurate predictions.
